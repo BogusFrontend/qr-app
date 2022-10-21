@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/BogusFrontend/qr-app/static/css/main.89cb95d7.css",
-    "main.js": "/BogusFrontend/qr-app/static/js/main.6048f064.js",
-    "index.html": "/BogusFrontend/qr-app/index.html",
-    "main.89cb95d7.css.map": "/BogusFrontend/qr-app/static/css/main.89cb95d7.css.map",
-    "main.6048f064.js.map": "/BogusFrontend/qr-app/static/js/main.6048f064.js.map"
+    "main.css": "/qr-app/static/css/main.89cb95d7.css",
+    "main.js": "/qr-app/static/js/main.6048f064.js",
+    "index.html": "/qr-app/index.html",
+    "main.89cb95d7.css.map": "/qr-app/static/css/main.89cb95d7.css.map",
+    "main.6048f064.js.map": "/qr-app/static/js/main.6048f064.js.map"
   },
   "entrypoints": [
     "static/css/main.89cb95d7.css",
